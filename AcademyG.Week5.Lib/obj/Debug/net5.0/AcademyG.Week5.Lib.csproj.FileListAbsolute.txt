@@ -1,0 +1,12 @@
+C:\Users\michael.locci\Desktop\AcademyG\Week5Test\AcademyG.Week5.Test\AcademyG.Week5.Lib\bin\Debug\net5.0\AcademyG.Week5.Lib.deps.json
+C:\Users\michael.locci\Desktop\AcademyG\Week5Test\AcademyG.Week5.Test\AcademyG.Week5.Lib\bin\Debug\net5.0\AcademyG.Week5.Lib.dll
+C:\Users\michael.locci\Desktop\AcademyG\Week5Test\AcademyG.Week5.Test\AcademyG.Week5.Lib\bin\Debug\net5.0\ref\AcademyG.Week5.Lib.dll
+C:\Users\michael.locci\Desktop\AcademyG\Week5Test\AcademyG.Week5.Test\AcademyG.Week5.Lib\bin\Debug\net5.0\AcademyG.Week5.Lib.pdb
+C:\Users\michael.locci\Desktop\AcademyG\Week5Test\AcademyG.Week5.Test\AcademyG.Week5.Lib\obj\Debug\net5.0\AcademyG.Week5.Lib.csproj.AssemblyReference.cache
+C:\Users\michael.locci\Desktop\AcademyG\Week5Test\AcademyG.Week5.Test\AcademyG.Week5.Lib\obj\Debug\net5.0\AcademyG.Week5.Lib.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\michael.locci\Desktop\AcademyG\Week5Test\AcademyG.Week5.Test\AcademyG.Week5.Lib\obj\Debug\net5.0\AcademyG.Week5.Lib.AssemblyInfoInputs.cache
+C:\Users\michael.locci\Desktop\AcademyG\Week5Test\AcademyG.Week5.Test\AcademyG.Week5.Lib\obj\Debug\net5.0\AcademyG.Week5.Lib.AssemblyInfo.cs
+C:\Users\michael.locci\Desktop\AcademyG\Week5Test\AcademyG.Week5.Test\AcademyG.Week5.Lib\obj\Debug\net5.0\AcademyG.Week5.Lib.csproj.CoreCompileInputs.cache
+C:\Users\michael.locci\Desktop\AcademyG\Week5Test\AcademyG.Week5.Test\AcademyG.Week5.Lib\obj\Debug\net5.0\AcademyG.Week5.Lib.dll
+C:\Users\michael.locci\Desktop\AcademyG\Week5Test\AcademyG.Week5.Test\AcademyG.Week5.Lib\obj\Debug\net5.0\ref\AcademyG.Week5.Lib.dll
+C:\Users\michael.locci\Desktop\AcademyG\Week5Test\AcademyG.Week5.Test\AcademyG.Week5.Lib\obj\Debug\net5.0\AcademyG.Week5.Lib.pdb
