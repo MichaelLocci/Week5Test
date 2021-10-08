@@ -201,13 +201,15 @@ namespace AcademyG.Week5.Test
                 Console.Clear();
                 Console.WriteLine("---- Elenco Spese ----");
                 Console.WriteLine();
+                Console.WriteLine("{0,-5}{1,-40}{2,15}{3,10}{4,10}{5,15}{6,15}", "ID", "Descrizione", "CategoriaId", "Utente", "Importo", "Approvato", "Data");
                 Console.WriteLine(new String('-', 110));
                 while (reader.Read())
                 {
                     string formattedDate = ((DateTime)reader["Data"]).ToString("dd-MMM-yyyy");
-                    Console.WriteLine($"[{reader["Id"]}] {reader["Descrizione"]} {reader["CategoriaId"]} {reader["Utente"]} {reader["Importo"]} {reader["Approvato"]} {formattedDate}");
+                    Console.WriteLine("{0,-5}{1,-40}{2,15}{3,10}{4,10}{5,15}{6,15}",
+                        $"[{reader["Id"]}]",$"{reader["Descrizione"]}",$"{reader["CategoriaId"]}",$"{reader["Utente"]}",$"{reader["Importo"]}",$"{reader["Approvato"]}",$" {formattedDate}");
                 }
-                Console.WriteLine(new string('-', 30));
+                Console.WriteLine(new string('-', 110));
 
             }
             catch (SqlException ex)
